@@ -1,0 +1,10 @@
+{
+  "description": "Helps school leaders explore the National Young Authors’ Fair, review program details and key dates, and register their school with confidence.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
